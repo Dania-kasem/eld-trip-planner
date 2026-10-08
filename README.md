@@ -2,7 +2,7 @@
 
 A full-stack app for truck drivers. Enter where the truck is, where it loads and where it unloads, plus the hours already used in the 70-hour cycle. The app returns the route, every required stop and rest, and a filled-in **Driver's Daily Log** (24-hour graph grid) for each day of the trip.
 
-**Live demo:** _add your Vercel URL_ &nbsp;|&nbsp; **API:** _add your Render URL_ `/api/health/` &nbsp;|&nbsp; **Video walkthrough:** _add your Loom URL_
+   **Live demo:** https://eld-trip-planner-gamma-ten.vercel.app | **API:** https://eld-trip-planner-api-90o1.onrender.com/api/health/ | **Video walkthrough:** add your Loom URL
 
 > The free API host sleeps when idle. If the first calculation is slow, wait up to a minute and try again.
 
